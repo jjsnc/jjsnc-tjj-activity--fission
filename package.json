@@ -13,7 +13,7 @@
     "buildPro": "node build/build.js --env=pro"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "better-scroll": "^1.13.2",
     "compression-webpack-plugin": "^1.1.11",
     "es6-promise": "^4.2.5",
